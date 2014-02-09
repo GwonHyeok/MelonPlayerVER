@@ -37,6 +37,7 @@
 }
 
 -keep class javazoom.**
+-keep class org.jsoup.**
 
 # Remove - System method calls. Remove all invocations of System
 # methods without side effects whose return values are not used.
