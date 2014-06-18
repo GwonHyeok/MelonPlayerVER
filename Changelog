@@ -1,3 +1,7 @@
+-- V2.20은 업데이트 기능을 이용한 업데이트는 되지 않습니다. -- <br>
+http://cafe.naver.com/inmacbook/968520 <br>
+위 주소에서 받아주시기 바랍니다....<br><br>
+
 v2.20 멜론 플레이어 java 컴파일러 버전을 메버릭스 기본 java 버전(jre1.6)으로 낮춰 빌드 하였습니다.<br>
 java 1.7+를 설치할 필요 없습니다.<br>
 java앱을 appbundler를 이용하여 app파일로 변경하였습니다.<br>
